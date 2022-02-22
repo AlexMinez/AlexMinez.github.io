@@ -22,12 +22,14 @@ h2 {
     margin: 0 auto;
     width: 50%;
     border: 2px solid black;
+    height: 50%;
 }
 #laptop {
     float: right;
     border-radius: 50%;
     border: 2px solid purple;
     margin-right: 2px;
+    image-resolution: from-image;
 }
 #truck {
     float: left;
